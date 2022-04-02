@@ -1,0 +1,2 @@
+# Tarification-en-assurance-non-vie-IARD-
+La tarification est le processus qui consiste à  ́evaluer le niveau de risque d’une personne (physique ou morale) demandant une assurance. Nous intéressons au cas de l'assurance non vie, où nous évaluons la prime pure avec les méthodes statistiques rigoureuses. La présentation part du processus de la tarification, le choix du modèle et le calcul de la prime pure. 
